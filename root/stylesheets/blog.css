@@ -1,0 +1,158 @@
+body {
+	margin: 0px auto;
+	height: auto;
+	width: 960px;
+	background-color: #2a2a2a;
+}
+
+header {
+	height: 400px;
+	width: 960px;
+	margin: 0px auto;
+}
+
+.topimage {
+	margin: 0px;
+	padding: 0px;
+	height: 400px;
+	vertical-align: bottom;
+}
+
+article {
+	width: 960px;
+	height: 100%;
+	margin: 0px;
+	background-color: gray;
+}
+
+.menu {
+	width: 960px;
+	height: 56px;
+}
+
+.menu a {
+	float: left;
+	color: black;
+	text-decoration: none;
+	height: 56px;
+	width: 160px;
+	text-align: center;
+}
+
+.menu h2 {
+	margin: 10px 0px;
+}
+
+.sponsers {
+	margin: 8px 120px;
+	width: 720px;
+	height: 72px;
+}
+
+.sponsers h3 {
+	text-align: center;
+	margin: 0px;
+	font-size: 18px;
+	color: black;
+}
+
+.sponsers a {
+	float: left;
+}
+
+.main {
+	margin: 25px 0px;
+	width: 960px;
+	height: 1400px;
+	clear: left;
+}
+
+.main h3 {
+	margin: 0px;
+	font-size: 24px;
+	text-align: center;
+}
+
+.main-left {
+	float: left;
+	width: 690px;
+}
+
+.blog {
+	background-color: white;
+	padding: 5px 0px 0px 5px;
+	margin: 5px 35px 35px 35px;
+	height: 400px;
+}
+
+.blog h4 {
+	font-size: 24px;
+	margin: 0px 0px 20px 0px;
+}
+
+.blog-date {
+	margin: 0px;
+}
+
+.blog-date h5 {
+	font-size: 18px;
+	margin: 0px;
+}
+
+.blog p {
+	font-size: 18px;
+	line-height: 1.7;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+.blog i {
+	margin-left: 5px; 
+}
+
+.continue {
+	margin-left: 340px;
+}
+
+
+.sidevar {
+	float: right;
+	width: 270px;
+	height: 550px;
+	margin-top: 41px;
+
+}
+
+.sidevar h4 {
+	font-size: 18px;
+	margin: 0px;
+}
+
+.sidemenu {
+	height: 120px;
+	margin-top: 15px;
+}
+
+.sidemenu p {
+	font-size: 16px;
+	margin: 0px 0px 0px 25px;
+}
+
+.sidemenu a {
+	float: right;
+	margin: 5px 30px 0px 0px;
+}
+
+footer {
+	clear: left;
+}
+
+.copylight {
+	font-size: 18px;
+	background-color: gray;
+	color: black;
+	text-align: center;
+	padding: 7px;
+}
